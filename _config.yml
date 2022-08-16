@@ -38,7 +38,7 @@ github_username:  leehani
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring 기반의 백엔드 개발자로 API 개발 및 웹 개발 경험이 있습니다. 주로 Spring, MySql, Git 등의 기술을 활용해 개발하고 있습니다. 
+  Java & Spring 기반의 백엔드 개발자로 API 개발 및 웹 개발 경험이 있습니다. 주로 Spring, MySQL, Git 등의 기술을 활용해 개발하고 있습니다. 
   
   기한에 맞춰 개발하는 능력도 중요하지만, 유지 보수성이 높은 코드를 작성하는 능력도 중요하다는걸 깨닫고 더 좋은 코드를 작성하고 개발 문화를 개선하려고 노력하고 있습니다. 
 
