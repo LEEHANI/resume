@@ -67,7 +67,7 @@ content:
             - 랭킹 서버 장애 대응 경험 
       - layout: left
         title: 위탁 서비스 개발
-        caption: 2018.12 - 2021.10 / 체리피카
+        caption: 2018.12 - 2019.03 / 체리피카
         description: | 
             - 위탁 판매 서비스 제공에 필요한 REST API 설계 및 개발
             - 반복되는 cs 요청에 위탁 어드민 API 기능 개발
