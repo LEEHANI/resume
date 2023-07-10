@@ -83,7 +83,7 @@ content:
     content:
       - layout: left
         title: NHN
-        sub_title: 웹개발자
+        sub_title: 서버 개발자
         caption: 2020.8 - 현재
         quote: >
           NHN 모바일 게임 어드민 개발 및 운영
@@ -95,7 +95,7 @@ content:
           - Spring, JPA, Mybatis, MySql, Redis, Junit, Vue.js, Git, NHN Cloud
       - layout: left
         title: 체리피카
-        sub_title: Java & Spring
+        sub_title: 서버 개발자
         caption: 2018.1 - 2019.12
         quote: >
           중고거래 플랫폼 개발 및 운영. 스타트업 
