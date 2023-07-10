@@ -38,7 +38,7 @@ github_username:  leehani
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring 기반의 백엔드 개발자로 API 개발 및 웹 개발 경험이 있습니다. 주로 Spring, MySQL, Git 등의 기술을 활용해 개발하고 있습니다. 
+  Java & Spring 기반의 백엔드 개발자로 API 개발 및 웹 개발 경험이 있습니다. 주로 Spring, MySQL, JPA 등의 기술을 활용해 개발하고 있습니다. 
   
   기한에 맞춰 개발하는 능력도 중요하지만, 유지 보수성이 높은 코드를 작성하는 능력도 중요하다는걸 깨닫고 더 좋은 코드를 작성하고 개발 문화를 개선하려고 노력하고 있습니다. 
 
@@ -51,39 +51,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left 
-        title: 포커 어드민 
-        caption: 2021.06 - 진행중 / nhn soft
+        title: 모바일 게임 어드민 개발 
+        caption: 2021.06 - 진행중 / nhn
         description: | 
-          - Spring, MyBatis를 이용해 포커 어드민 개발에 필요한 rest api 개발
-          - Vue.js를 이용해 포커 어드민 화면 및 이벤트 페이지 개발 
-          - admin 로깅 감사 시스템 연동
+          - 모바일 게임 어드민 개발 및 운영
+          - [모바일 포커 어드민 메모리 트러블 슈팅 개선 경험](./project/nhn/mpoker_admin_issue.md) 
+      - layout: left
+        title: 모바일 게임 이벤트 페이지 개발
+        caption: 2021.12 - 진행중 / nhn
+        description: | 
+          - 모바일 게임 이벤트 페이지 개발 및 운영
+          - [모바일 포커와 더블에이 포커 머니교환소 이벤트 개발](./project/nhn/money_exchange_event_issue.md)
+          - 더블에이 포커 사전예약 이벤트 개발 
       - layout: left 
         title: 신윷놀이2 메인페이지 개발
-        caption: 2021.01 - 2021.07 / nhn soft
+        caption: 2021.01 - 2021.07 / nhn
         description: | 
           - 신윷놀이2 메인 페이지 개발 및 운영
-          - 이슈 모니터링 및 이슈 대응 
-            - css 깨짐 이슈 수정 
-            - 랭킹 서버 장애 대응 경험 
-      - layout: left
-        title: 위탁 서비스 개발
-        caption: 2018.12 - 2019.03 / 체리피카
-        description: | 
-            - 위탁 판매 서비스 제공에 필요한 REST API 설계 및 개발
-            - 반복되는 cs 요청에 위탁 어드민 API 기능 개발
+          - [랭킹 서버 장애 대응 경험](./project/nhn/sinyutnori2_ranking_issue.md)
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: NHN Soft
+        title: NHN
         sub_title: 웹개발자
         caption: 2020.8 - 현재
         quote: >
-          NHN 한게임 서비스 어드민 개발 및 운영
+          NHN 모바일 게임 어드민 개발 및 운영
         description: |
-          - 포커 어드민 & 이벤트 개발 및 유지보수
+          - 한게임 모바일 게임 어드민 개발 및 유지보수
+          - 모바일 포커/섯다 이벤트 페이지 개발
           - 레거시 코드 개선 및 기존 코드 유지보수
           - 테스트 코드 & 코드 리뷰 도입으로 개발 환경 개선
+          - Spring, JPA, Mybatis, MySql, Redis, Junit, Vue.js, Git, NHN Cloud
       - layout: left
         title: 체리피카
         sub_title: Java & Spring
