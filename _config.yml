@@ -36,7 +36,7 @@ github_username:  leehani
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: https://github.com/LEEHANI/resume/blob/master/images/profile.jpg?raw=true
 about_content: | # this will include new lines to allow paragraphs
   Java & Spring 기반의 백엔드 개발자로 API 개발 및 웹 개발 경험이 있습니다. 주로 Spring, MySQL, JPA 등의 기술을 활용해 개발하고 있습니다. 
   
