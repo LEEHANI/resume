@@ -55,7 +55,7 @@ content:
         caption: 2021.06 - 진행중 / nhn
         description: | 
           - 모바일 게임 어드민 개발 및 운영
-          - [모바일 포커 어드민 메모리 트러블 슈팅 개선 경험](https://github.com/LEEHANI/resume/blob/master/project/nhn/mpoker_admin_issue.md) 
+          - [모바일 포커 어드민 메모리 트러블 슈팅 개선 경험 (링크)](https://github.com/LEEHANI/resume/blob/master/project/nhn/mpoker_admin_issue.md) 
             + Mybatis `N+1 문제` 개선
             + `Full partition search` 개선
             + `OOM` 트러블 슈팅
@@ -65,7 +65,7 @@ content:
         caption: 2021.12 - 진행중 / nhn
         description: | 
           - 모바일 게임 이벤트 페이지 개발 및 운영
-          - [모바일 포커와 더블에이 포커 머니교환소 이벤트 개발](https://github.com/LEEHANI/resume/blob/master/project/nhn/money_exchange_event_issue.md)
+          - [모바일 포커와 더블에이 포커 머니교환소 이벤트 개발 (링크)](https://github.com/LEEHANI/resume/blob/master/project/nhn/money_exchange_event_issue.md)
             + `Redis 분산락` 을 이용한 동시성 제어
             + MSA 환경에서의 트랜잭션 범위 최소화
             + 팀내 `코드리뷰` 문화 강화
@@ -75,7 +75,7 @@ content:
         caption: 2021.01 - 2021.07 / nhn
         description: | 
           - 신윷놀이2 메인 페이지 개발 및 운영
-          - [랭킹 서버 장애 대응 경험](https://github.com/LEEHANI/resume/blob/master/project/nhn/sinyutnori2_ranking_issue.md)
+          - [랭킹 서버 장애 대응 경험 (링크)](https://github.com/LEEHANI/resume/blob/master/project/nhn/sinyutnori2_ranking_issue.md)
             + `서킷 브레이커`를 이용한 장애전파 차단
             + API 호출을 `비동기` 로 변경하여 메인페이지 응답 속도 개선
   - title: Experience
